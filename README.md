@@ -33,6 +33,17 @@ All analysis and modeling are performed in a Jupyter Notebook.
 3. Open the Jupyter notebook
 4. Run the notebook cells sequentially to reproduce the analysis and results.
 
+## Results Summary
+This project demonstrates that hospital readmission risk can be effectively anticipated using hospital-level data.
+
+Several classification models were evaluated, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. Among these, Logistic Regression showed consistently strong performance while offering high interpretability, making it suitable for this use case.
+
+Key findings include:
+- Hospitals with higher baseline readmission rates are significantly more likely to exceed expected readmission thresholds.
+- Hospital size, measured by the number of discharges, is an important contributor to readmission risk.
+- Geographic location and procedure type showed more limited influence compared to baseline risk metrics.
+
+Overall, the results suggest that data-driven models can support early identification of hospitals at risk of excess readmissions, enabling more proactive and informed healthcare decision-making.
 
 ## Licensing
 
