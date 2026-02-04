@@ -33,6 +33,17 @@ All analysis and modeling are performed in a Jupyter Notebook.
 3. Open the Jupyter notebook
 4. Run the notebook cells sequentially to reproduce the analysis and results.
 
+## CRISP-DM Framework
+
+This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology:
+
+- **Business Understanding**: Define the goal of identifying hospitals at risk of excess readmissions.
+- **Data Understanding**: Explore hospital-level readmission data and assess data quality.
+- **Data Preparation**: Clean data, handle missing values, select features, and define the target variable.
+- **Modeling**: Train and compare multiple classification models.
+- **Evaluation**: Assess model performance and interpret results.
+- **Deployment Considerations**: Discuss how insights could support real-world healthcare decision-making.
+
 ## Results Summary
 This project demonstrates that hospital readmission risk can be effectively anticipated using hospital-level data.
 
