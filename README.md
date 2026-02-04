@@ -34,14 +34,14 @@ All analysis and modeling are performed in a Jupyter Notebook.
 4. Run the notebook cells sequentially to reproduce the analysis and results.
 
 
-##Licensing
+## Licensing
 
 This project is provided for educational purposes only.
 The dataset is publicly available and subject to CMS data usage guidelines.
 
-##Authors
+## Authors
 Aina Lluís Huelmo
 
-##Acknowledgments
+## Acknowledgments
 - Centers for Medicare & Medicaid Services (CMS) for providing the public dataset.
 - Course instructors and materials for guidance on the data science process.
