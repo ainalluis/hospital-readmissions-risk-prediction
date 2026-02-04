@@ -36,7 +36,7 @@ All analysis and modeling are performed in a Jupyter Notebook.
 ## Results Summary
 This project demonstrates that hospital readmission risk can be effectively anticipated using hospital-level data.
 
-Several classification models were evaluated, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. Among these, Logistic Regression showed consistently strong performance while offering high interpretability, making it suitable for this use case.
+Several classification models were evaluated, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. Among these, Logistic Regression showed consistently strong performance while offering high interpretability, making it suitable for this use case. This model achieved aproximately an 98% of accuracy.
 
 Key findings include:
 - Hospitals with higher baseline readmission rates are significantly more likely to exceed expected readmission thresholds.
